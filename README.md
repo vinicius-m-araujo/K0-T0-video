@@ -1,4 +1,4 @@
-# ZG-HERO Project - (K0-T0): Onboarding
+﻿# ZG-HERO Project - (K0-T0): Onboarding
 
 Este repositório contém a entrega da atividade de **Onboarding** do Nível ZG.
 
@@ -15,3 +15,5 @@ Conforme solicitado na trilha, o vídeo demonstra o ambiente de desenvolvimento 
     ```
 
 ### [Clique aqui para assistir ao vídeo de setup](./src/video/video.webm)
+
+<!-- sync: repository update -->
